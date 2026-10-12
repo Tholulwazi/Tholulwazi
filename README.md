@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tholulwazi Zulu 👋
 
-<!--
-**Tholulwazi/Tholulwazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Graduate | Adabas & Natural Developer | Software Engineer**
 
-Here are some ideas to get you started:
+I build enterprise applications using **Software AG Natural and Adabas**, with a foundation in Computer Science and a passion for solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Develop enterprise applications using Natural and Adabas.
+- Build data-driven systems with record management, change tracking, and reporting.
+- Apply software engineering and database concepts to practical business challenges.
+
+### 🛠️ Tech Stack
+`Natural` `Adabas` `NaturalONE` `Java` `SQL` `Git` `GitHub`
+
+### 🎯 Currently Focused On
+Growing as an enterprise software developer, strengthening my technical skills, and building reliable solutions that create real value.
+
+📍 South Africa | 🤝 Open to opportunities in software development and enterprise systems.
