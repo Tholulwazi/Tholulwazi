@@ -12,10 +12,11 @@ I build enterprise applications using **Software AG Natural and Adabas**, with a
 ### 🛠️ Tech 
 <p align="left">
   <img src="https://img.shields.io/badge/Software_AG-Adabas-008C95?style=for-the-badge" alt="Software AG Adabas" />
+    <img src="https://img.shields.io/badge/Software_AG-Natural-0072C6?style=for-the-badge" alt="Software AG Natural" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,git,github,eclipse,vscode" alt="Java, Git, GitHub, Eclipse and VS Code" />
-  <img src="https://img.shields.io/badge/Software_AG-Natural-0072C6?style=for-the-badge" alt="Software AG Natural" />
+
 </p>
 
 
