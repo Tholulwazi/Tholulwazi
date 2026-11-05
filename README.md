@@ -1,6 +1,6 @@
 # Hi, I'm Tholulwazi Zulu 👋
 
-💻 **Computer Science Graduate | Adabas & Natural Developer | Software Engineer**
+💻 **Computer Science Graduate | Adabas Natural Developer | Software Engineer**
 
 I build enterprise applications using **Software AG Natural and Adabas**, with a foundation in Computer Science and a passion for solving real-world problems through technology.
 
